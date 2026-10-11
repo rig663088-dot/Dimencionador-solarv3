@@ -1,0 +1,5 @@
+DIMENSIONADOR SOLAR - proyecto nuevo (version final)
+
+Sube a GitHub: capacitor.config.json, package.json y la carpeta www (con index.html).
+Luego crea el archivo .github/workflows/build-apk.yml con el editor de GitHub
+(Add file > Create new file, y escribe de nombre: .github/workflows/build-apk.yml).
